@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '홍바다 | Profile',
-  description: '안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.',
+  description: '직관적인 사용자 경험부터 안정적인 백엔드 설계까지 아우르는 풀스택 개발자 홍바다입니다.',
 };
 
 export default function RootLayout({
